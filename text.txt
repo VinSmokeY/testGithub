@@ -1,2 +1,3 @@
 print("wasdf")
 print("hello world")
+return 0
